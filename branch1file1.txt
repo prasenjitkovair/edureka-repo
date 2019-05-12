@@ -1,1 +1,1 @@
-branch 1 file changed in master.
+branch 1 file changed in master. Changed again in branch1.
